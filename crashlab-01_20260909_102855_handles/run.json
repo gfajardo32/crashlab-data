@@ -1,0 +1,15 @@
+﻿{
+    "run_id":  "crashlab-01_20260909_102855_handles",
+    "vm":  "crashlab-01",
+    "fault":  "handles",
+    "fault_cmd":  "C:\\CrashData\\sysinternals\\Testlimit64.exe -accepteula -h -u",
+    "status":  "died",
+    "baseline_minutes":  7,
+    "boot_time_local":  "2026-09-09T10:30:37.0565562-07:00",
+    "inject_time_local":  "2026-09-09T10:37:37.0596357-07:00",
+    "inject_heartbeat":  1788975437,
+    "died":  true,
+    "last_heartbeat":  1788975494,
+    "death_time_utc":  "2026-09-09T17:38:14.0000000Z",
+    "ttf_seconds":  57
+}
