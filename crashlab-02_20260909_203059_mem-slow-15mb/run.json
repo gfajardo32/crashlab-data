@@ -1,0 +1,15 @@
+﻿{
+    "run_id":  "crashlab-02_20260909_203059_mem-slow-15mb",
+    "vm":  "crashlab-02",
+    "fault":  "mem-slow-15mb",
+    "fault_cmd":  "C:\\CrashData\\sysinternals\\Testlimit64.exe -accepteula -d 15 -e 1",
+    "status":  "died",
+    "baseline_minutes":  8,
+    "boot_time_local":  "2026-09-09T20:31:26.8070058-07:00",
+    "inject_time_local":  "2026-09-09T20:39:26.8094338-07:00",
+    "inject_heartbeat":  1788915130,
+    "died":  true,
+    "last_heartbeat":  1788915130,
+    "death_time_utc":  "2026-09-09T00:52:10.0000000Z",
+    "ttf_seconds":  0
+}

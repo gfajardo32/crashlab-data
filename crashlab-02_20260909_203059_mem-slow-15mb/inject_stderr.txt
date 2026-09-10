@@ -1,0 +1,1 @@
+VBoxManage.exe: error: Machine "crashlab-02" is not running (currently aborted)!
