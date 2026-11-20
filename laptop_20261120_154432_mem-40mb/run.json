@@ -1,0 +1,13 @@
+{
+  "run_id": "laptop_20261120_154432_mem-40mb",
+  "machine": "DESKTOP-DN6KTF8",
+  "fault": "mem-40mb",
+  "fault_cmd": "C:\\CrashLab\\tools\\Testlimit64.exe -accepteula -d 40 -e 1",
+  "status": "died",
+  "baseline_minutes": 8,
+  "boot_time_local": "2026-11-20T15:41:37.5000000-06:00",
+  "inject_time_utc": "2026-11-20T21:52:36.776547+00:00",
+  "died": true,
+  "death_unix": 1795211719,
+  "death_time_utc": "2026-11-20T21:55:19+00:00"
+}
