@@ -1,0 +1,16 @@
+{
+  "run_id": "laptop_20261121_011846_healthy-control",
+  "machine": "DESKTOP-DN6KTF8",
+  "fault": "healthy-control",
+  "fault_cmd": null,
+  "status": "healthy",
+  "baseline_minutes": 12,
+  "boot_time_local": "2026-11-20T15:55:40.5000000-06:00",
+  "inject_time_utc": null,
+  "died": false,
+  "death_unix": null,
+  "death_time_utc": null,
+  "observation_start_utc": "2026-11-21T07:20:51.3416846Z",
+  "observation_end_utc": "2026-11-21T07:32:55.2534216Z",
+  "ttf_seconds": null
+}
